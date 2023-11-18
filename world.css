@@ -55,10 +55,15 @@ button{
     background-color:rgb(109, 189, 189);
 }
 
+#result{
+    display: flex;
+    justify-content: center;
+}
+
 table {
     margin-top: 25px;
     border-collapse: collapse;
-    width: 100%;
+    width: 75%;
     text-align: center;
     background-color: white;
     border: solid 1px rgb(194, 194, 194);
